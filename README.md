@@ -38,7 +38,12 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmunankarmi)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmunankarmi&einclude_repo=NFC_Attendance_System)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sauravmunankarmi)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [linkedin]: https://www.linkedin.com/in/sauravmunankarmi/
 [instagram]: https://www.instagram.com/sauravmunankarmi/
