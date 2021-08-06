@@ -34,7 +34,7 @@
 
 ---
 
-![Saurav's github stats](https://github-readme-sauravmunankarmi-1480zxen3-sauravmunankarmi.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs)
+![Saurav's github stats](https://github-readme-sauravmunankarmi-1480zxen3-sauravmunankarmi.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs&theme=buefy)
 
 ---
 
