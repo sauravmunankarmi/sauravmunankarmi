@@ -34,15 +34,15 @@
 
 ---
 
-![Saurav's github stats](https://github-readme-sauravmunankarmi-8u9raf351-sauravmunankarmi.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs)
+![Saurav's github stats](https://github-readme-sauravmunankarmi-1480zxen3-sauravmunankarmi.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs)
 
 ---
 
-![Top Langs](https://github-readme-sauravmunankarmi-8u9raf351-sauravmunankarmi.vercel.app/api/top-langs/?username=sauravmunankarmi&einclude_repo=NFC_Attendance_System)
-
+<!-- ![Top Langs](https://github-readme-sauravmunankarmi-8u9raf351-sauravmunankarmi.vercel.app/api/top-langs/?username=sauravmunankarmi&einclude_repo=NFC_Attendance_System) -->
+![Top Langs](https://github-readme-sauravmunankarmi-1480zxen3-sauravmunankarmi.vercel.app/api/top-langs/?username=sauravmunankarmi&einclude_repo=NFC_Attendance_System)
 ---
 
-![willianrod's wakatime stats](https://github-readme-sauravmunankarmi.vercel.app/api/wakatime?username=sauravmunankarmi)
+![willianrod's wakatime stats](https://github-readme-sauravmunankarmi-1480zxen3-sauravmunankarmi.vercel.app/api/wakatime?username=sauravmunankarmi)
 
 
 [linkedin]: https://www.linkedin.com/in/sauravmunankarmi/
