@@ -34,12 +34,11 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Saurav's github stats](https://github-readme-stats.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="Saurav Munankarmi's GitHub Stats" src="https://github-readme-stats-sauravmunankarmi.vercel.app/api?username=sauravmunankarmi&show_icons=true&hide_border=true" />
+---
 
-</details>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sauravmunankarmi)](https://github.com/anuraghazra/github-readme-stats)
 
 [linkedin]: https://www.linkedin.com/in/sauravmunankarmi/
 [instagram]: https://www.instagram.com/sauravmunankarmi/
