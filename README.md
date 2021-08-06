@@ -37,7 +37,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Saurav Munankarmi's GitHub Stats" src="github-readme-stats-ovhjixr5f-sauravmunankarmi.vercel.app/api?username=sauravmunankarmi&show_icons=true&hide_border=true" />
+  <img align="left" alt="Saurav Munankarmi's GitHub Stats" src="github-readme-stats-one-rosy.vercel.app/api?username=sauravmunankarmi&show_icons=true&hide_border=true" />
 
 </details>
 
