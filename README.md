@@ -40,7 +40,7 @@
 
 ---
 
-![Top Langs](https://github-readme-sauravmunankarmi.vercel.app/api/top-langs/?username=sauravmunankarmi&exclude_repo=github-readme-sauravmunankarmi&theme=buefy)
+![Top Langs](https://github-readme-sauravmunankarmi.vercel.app/api/top-langs/?username=sauravmunankarmi&exclude_repo=smartqr,github-readme-sauravmunankarmi&theme=buefy)
 
 
 ---
