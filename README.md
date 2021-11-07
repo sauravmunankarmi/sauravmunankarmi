@@ -45,6 +45,8 @@
 
 ---
 
+Waka time stats since August 2021
+
 ![willianrod's wakatime stats](https://github-readme-sauravmunankarmi-1480zxen3-sauravmunankarmi.vercel.app/api/wakatime?username=sauravmunankarmi&theme=buefy)
 
 
