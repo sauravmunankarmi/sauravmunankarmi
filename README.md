@@ -60,5 +60,5 @@ Wakatime stats since August 2021
 [github]: https://github.com/sauravmunankarmi
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=sauravmunankarmi)
 
