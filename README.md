@@ -3,8 +3,8 @@
 ## I'm an Android Developer
 
 - 🔭 I develop android apps based on java and kotlin
-- 🌱 I’m currently learning Spring boot
-- ⚡ Fun fact: I love to play video games, specially CS:GO 🤣
+- 🌱 I’m currently learning Jetpack Compose
+- ⚡ Fun fact: I love to play video games, specially CS:GO and Valorant🤣
 
 ### Connect with me:
 
