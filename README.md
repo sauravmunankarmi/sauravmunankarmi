@@ -52,8 +52,6 @@ Wakatime stats since August 2021
 
 
 
-
-
 [linkedin]: https://www.linkedin.com/in/sauravmunankarmi/
 [instagram]: https://www.instagram.com/sauravmunankarmi/
 [facebook]: https://www.facebook.com/IMPTBAG/
