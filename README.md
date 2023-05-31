@@ -35,7 +35,6 @@
 ---
 
 
-<!-- ![Saurav's github stats](https://github-readme-sauravmunankarmi.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs&theme=buefy) -->
 ![Saurav's github stats](https:/github-readme-stats-zeta-amber-67.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs&theme=buefy)
 
 
@@ -43,7 +42,6 @@
 ---
 
 ![Top Langs](https://github-readme-stats-zeta-amber-67.vercel.app/api/top-langs/?username=sauravmunankarmi&exclude_repo=smartqr,github-readme-sauravmunankarmi&theme=buefy)
-
 
 ---
 
