@@ -35,18 +35,20 @@
 ---
 
 
-![Saurav's github stats](https://github-readme-sauravmunankarmi.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs&theme=buefy)
+<!-- ![Saurav's github stats](https://github-readme-sauravmunankarmi.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs&theme=buefy) -->
+![Saurav's github stats](https:/github-readme-stats-zeta-amber-67.vercel.app/api?username=sauravmunankarmi&count_private=true&show_icons=true&hide=contribs&theme=buefy)
+
 
 
 ---
 
-![Top Langs](https://github-readme-sauravmunankarmi.vercel.app/api/top-langs/?username=sauravmunankarmi&exclude_repo=smartqr,github-readme-sauravmunankarmi&theme=buefy)
+![Top Langs](https://github-readme-stats-zeta-amber-67.vercel.app/api/top-langs/?username=sauravmunankarmi&exclude_repo=smartqr,github-readme-sauravmunankarmi&theme=buefy)
 
 
 ---
 
 Wakatime stats since August 2021
-![Harlok's wakatime stats](https://github-readme-stats-sauravmunankarmi.vercel.app/api/wakatime?username=sauravmunankarmi&theme=buefy)
+![Harlok's wakatime stats](https://github-readme-stats-zeta-amber-67.vercel.app/api/wakatime?username=sauravmunankarmi&theme=buefy)
 
 
 
