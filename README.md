@@ -2,9 +2,8 @@
 
 ## I'm an Android Developer
 
-- 🔭 I develop android apps based on java and kotlin
-- 🌱 I’m currently learning Jetpack Compose
-- ⚡ Fun fact: I love to play video games, specially CS:GO and Valorant🤣
+- 🔭 I develop android apps based on Kotlin and Jetpack Compose
+- ⚡ Fun fact: I love to play video games, specially CS2
 
 ### Connect with me:
 
